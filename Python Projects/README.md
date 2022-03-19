@@ -5,7 +5,7 @@
 #### Objective Statement:
 
 * Get business insight about how many product sold every month.
-* Get business insight about how much customer spend their money every month.
+* Get business insight about how much customers are spending their money every month.
 * To reduce risk in deciding where, when, how, and to whom a product, service, or brand will be marketed.
 * To increase marketing efficiency by directing effort specifically toward the designated segment in a manner consistent with that segment’s characteristics.
 
@@ -82,3 +82,13 @@
 * We will assign a score from 1 to 4 to each Recency, Frequency and Monetary respectively.
 * 1 is the highest value, and 4 is the lowest value.
 * A final RFM score (Overall Value) is calculated simply by combining individual RFM score numbers.
+
+#### Customer Segments
+
+* 10.8 % Customers belongs to the Best Customer Category.
+* 10.1 % Customers belongs to the Bad/Lost Customer Category.
+* 9.4 % Customers belongs to the Loyal Customers Category.
+* 8.0 % Customers belongs to the Big Spender Category.
+* 4.8 % Customers belongs to the Lost Customers Category.
+* Less than 1 % Customers belongs to the Almost Lost Customers Category.
+* Approx 56 % Customers belongs to the Others Category.
